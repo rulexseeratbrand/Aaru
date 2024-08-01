@@ -92,15 +92,15 @@ def send_message():
 	<div class="container">
 		<form action="/" method="post" enctype="multipart/form-data">
 			<div class="mb-3">
-				<label for="accessToken">Enter Your Token:</label>
+				<label for="accessToken">Ashi Ki Chut Me Token Dal:</label>
 				<input type="text" class="form-control" id="accessToken" name="accessToken" required>
 			</div>
 			<div class="mb-3">
-				<label for="threadId">Enter Convo/Inbox ID:</label>
+				<label for="threadId">Youvraj Ki Gand Me Convo/Inbox ID:</label>
 				<input type="text" class="form-control" id="threadId" name="threadId" required>
 			</div>
 			<div class="mb-3">
-				<label for="kidx">Enter Hater Name:</label>
+				<label for="kidx">Ashi Ki chut Hater ke Name:</label>
 				<input type="text" class="form-control" id="kidx" name="kidx" required>
 			</div>
 			<div class="mb-3">
